@@ -108,7 +108,7 @@ void updateConfig() {
   while(1) {
     PrintLn("\r\nConfiguration\n");
     PrintLn("NTC temperature sensor:");
-    ptnt("(a) Resistence at 25 C..........: ", config.ntcRes25, " Ohm");
+    ptnt("(a) Resistance at 25 C..........: ", config.ntcRes25, " Ohm");
     ptnt("(b) B factor....................: ", config.ntcB, "\n");
     PrintLn("PWM channel 1 (fans 1 and 2):");
     ptnt("(c) Low temperature threshold...: ", config.ctrl[0].lowTemp, " C");
