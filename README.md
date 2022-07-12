@@ -8,6 +8,7 @@ The device can be used in two fashions:
 
 - "Online". The module is connected to a USB port, allowing the temperature, PWM duty cycle and fan speed to be monitored and the configuration to be changed at any time.
 
+
 ## Specifications
 
 4 4-pin fan connections.  Each fan speed is monitored individually.
@@ -19,6 +20,7 @@ Each PWM channel have two temperature thresolds (low and high) and two values fo
 - Temperature < low temperatute threshold -> Minumum PWM duty cycle
 - Temperature > high temperatute threshold -> Maximum PWM duty cycle
 - Other cases -> PWM duty cycle varies linearly according to the temperature
+
 
 ## Getting Started
 
@@ -36,11 +38,11 @@ Press "c" to enter the configuration menu.
 
 Note: you must configure **all** the parameters **before using the controller** for the first time!
 
-
 ```
 Configuration
 
 NTC temperature sensor:
+
 (a) Resistance at 25 C..........: 46800 Ohm
 (b) B factor....................: 3950
 
@@ -65,12 +67,6 @@ Type the letter corresponding to the parameter you want to change.  Type the new
 Once you finish configuring the controller, type "z" to save your changes.
 
 Be sure to exit the configuration menu when you are done as the temperature will not be monitored when the controller is in configuration mode!
-
-## Installation Notes
-
-For standalone usage, close the jumper P7, so the controller can get power from the power supply cable and work with no USB connection.  In this case, you may omit all the zener diodes and replace all 150Ohm resistors with wire jumpers, as those components are intended to protect the computer's USB port from (unlikely) damages caused by fan failures.
-
-For "online" usage, remove the jumper P7.  This way, the controller will be powered via the USB port, preventing the 5V from the power supply from being fed back to the computer's USB port.
 
 
 ## Monitoring
@@ -99,6 +95,9 @@ Temp(C) PWM1(%) PWM2(%)  RPM1  RPM2  RPM3  RPM4
 ```
 
 
+## Installation Notes
 
+For standalone usage, close the jumper P7, so the controller can get power from the power supply cable and work with no USB connection.  In this case, you may omit all the zener diodes and replace all 150Ohm resistors with wire jumpers, as those components are intended to protect the computer's USB port from (unlikely) damages caused by fan failures.
 
+For "online" usage, remove the jumper P7.  This way, the controller will be powered via the USB port, preventing the 5V from the power supply from being fed back to the computer's USB port.
 
