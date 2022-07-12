@@ -101,3 +101,17 @@ For standalone usage, close the jumper P7, so the controller can get power from 
 
 For "online" usage, remove the jumper P7.  This way, the controller will be powered via the USB port, preventing the 5V from the power supply from being fed back to the computer's USB port.
 
+For "online" usage, you can use a cabe with a USB-mini connector on one end and install a 5-pin (or 4-pin) "DuPont" on the other.  The wires on USB cables are usually color-coded:
+
+| Wire color        | Function       | DuPont connector pin |
+| ----------------- | -------------- | -------------------- |
+| Red               | +5V            | 1                    |
+| White             | Data +         | 2                    |
+| Green             | Data -         | 3                    |
+| Black             | GND            | 4                    |
+| (shielding braid) | Chassis ground | 5 (optional)         |
+
+The cable should look like this:
+
+![USB Cable](/img/usb_cable.png)
+
