@@ -15,10 +15,10 @@ The device can be used in two fashions:
 2 configurable PWM channels (1 channel for each 2 fans).
 1 NTC temperature sensor.
 
-Each PWM channel have two temperature thresolds (low and high) and two values for the PWM duty cycle (minimum and maximum).  The controller will set the duty cycle as follows:
+Each PWM channel have two temperature thresholds (low and high) and two values for the PWM duty cycle (minimum and maximum).  The controller will set the duty cycle as follows:
 
-- Temperature < low temperatute threshold -> Minumum PWM duty cycle
-- Temperature > high temperatute threshold -> Maximum PWM duty cycle
+- Temperature < low temperature threshold -> Minimum PWM duty cycle
+- Temperature > high temperature threshold -> Maximum PWM duty cycle
 - Other cases -> PWM duty cycle varies linearly according to the temperature
 
 
