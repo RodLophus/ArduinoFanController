@@ -5,7 +5,8 @@ An open-source, Arduino-based, programmable active cooling system for a
 GPU NVIDIA Tesla V100 and for a FGPA Xilinx Alveo U280 cards installed
 in standard computer cases.
 
- 
+ ![NVidia](https://github.com/RodLophus/ArduinoFanController/blob/main/DOC/tesla.jpg "Logo Title Text 1")
+ ![Xilix](https://github.com/RodLophus/ArduinoFanController/blob/main/DOC/xl.jpg "Logo Title Text 1")
 
 ### Overview 
 
