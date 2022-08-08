@@ -147,12 +147,17 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
 </tr>
 <tr>
 <td>name</td>
-<td><code itemprop="name">CC BY-SA 4.0</code></td>
+<td><code itemprop="name">MIT</code></td>
 </tr>
 <tr>
 <td>url</td>
-<td><code itemprop="url">https://creativecommons.org/licenses/by-sa/4.0/</code></td>
+<td><code itemprop="url">https://opensource.org/licenses/MIT</code></td>
 </tr>
+</table>
+</div>
+</td>
+</tr>
+<tr>
 </table>
 </div>
 </td>
