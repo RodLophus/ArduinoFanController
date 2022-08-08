@@ -60,7 +60,7 @@ accelerator cards (2002).
 
 ### Funding 
 
-This research was supported by CNPq (grant 302674/2018-7) and FAPESP
+The work of A. Saa is supported by CNPq (grant 302674/2018-7) and FAPESP
 (grant 21/09293-7).
 
 ### Dataset Metadata 
