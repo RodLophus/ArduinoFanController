@@ -4,6 +4,9 @@
 An open-source, Arduino-based, programmable active cooling system for a
 GPU NVIDIA Tesla V100 and for a FGPA Xilinx Alveo U280 cards installed
 in standard computer cases.
+<p align="center">
+<img src="DOC/oshwa.png" alt="OSWA Logo" width="15%" /> 
+</p>
 
 <img src="DOC/tesla.jpg" alt="drawing" width="49%"/> <img src="DOC/xl.jpg" alt="drawing" width="49%"/>
 
