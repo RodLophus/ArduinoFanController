@@ -1,5 +1,5 @@
 
-**Open-source active cooling system for GPU and FPGA accelerator cards**
+## Open-source active cooling system for GPU and FPGA accelerator cards 
 
 An open-source, Arduino-based, programmable active cooling system for a
 GPU NVIDIA Tesla V100 and for a FGPA Xilinx Alveo U280 cards installed
@@ -7,7 +7,7 @@ in standard computer cases.
 
  
 
-**Overview**
+### Overview 
 
 Typically, high-performance Graphics Processing Units (GPU) and Field
 Programmable Gate Arrays (FPGA) accelerators are high-power demanding
@@ -27,7 +27,7 @@ For the rationale and overall description of the project, see the
 details]{.ul}. For the Arduino programming and electronics, see the
 [controller details]{.ul}.
 
-**License**
+### License 
 
 The hardware is available under a
 [CERN-OHL-S-2.0](https://spdx.org/licenses/CERN-OHL-S-2.0.html) license,
@@ -42,7 +42,7 @@ Attribution-ShareAlike 4.0 International Public License (CC BY-SA
 4.0)](https://creativecommons.org/licenses/by-sa/4.0/), available also
 [here]{.ul}.
 
-**Contact**
+### Contact 
 
 This project was carried out in the Institute of Mathematics,
 Statistics, and Scientific Computing of the University of Campinas, SP,
@@ -50,17 +50,17 @@ Brazil. For questions, please contact the developer Rodolfo Manin
 (<rodolfo@ime.unicamp.br>) or the Principal Investigator Alberto Saa
 (<asaa@ime.unicamp.br>).
 
-**Citation**
+### Citation 
 
 R. Manin and A. Saa, Open-source active cooling system for GPU and FPGA
 accelerator cards (2002).
 
-**Funding**
+### Funding 
 
 This research was supported by CNPq (grant 302674/2018-7) and FAPESP
 (grant 21/09293-7).
 
-**Dataset Metadata**
+### Dataset Metadata 
 
 The following table is necessary for this dataset to be indexed by
 search engines such as [Google Dataset
