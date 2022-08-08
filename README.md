@@ -36,13 +36,8 @@ The hardware is available under a
 [CERN-OHL-S-2.0](https://spdx.org/licenses/CERN-OHL-S-2.0.html) license,
 available also [here]{.ul}.
 
-The software is available under an [MIT
+The software and documentation are available under an [MIT
 license](https://opensource.org/licenses/MIT), available also
-[here]{.ul}.
-
-The documentation is available under a [Creative Commons
-Attribution-ShareAlike 4.0 International Public License (CC BY-SA
-4.0)](https://creativecommons.org/licenses/by-sa/4.0/), available also
 [here]{.ul}.
 
 ### Contact 
