@@ -119,17 +119,19 @@ The cable should look like this:
 
 ## Bill of Materials
 
-| Qty.  | Description                         | Reference Part Number | Designators    |
-| ----- | ------------------------------------| --------------------- | -------------- |
-| 1     | Arduino Nano board                  | Arduino Nano R3       | U1             |
-| 4     | 4-pin PC FAN PCB Header; Male       | Molex KK254-47053     | P1, P2, P3, P4 |
-| 1     | 4-pin PC accessory PCB Header; Male | Molex 8981 Series     | P5             |
-| 1     | 2-pin JST-XH type PCB Header; Male  | JST-XH B2B-XH-A       | P6             |
-| 4     | Zener Diode; 5,1V; 1/2W             | OnSemi 1N751A         | D1, D2, D3, D4 |
-| 8     | Carbon Resistor; 150 Ohm; 1/8W      | (generic)             | R1, R2, R3, R4, R5, R6, R10, R11 |
-| 4     | Carbon Resistor; 3,9 KOhm; 1/8W     | (generic)             | R7, R8, R9, R12 |
-| 1     | Carbon Resistor; 22 KOhm; 1/8W      | (generic)             | R13             |
-| 4     | Polyester Capacitor; 100nf; 63V     | (generic)             | C1, C2, C3, C4  |
+| Qty.  | Description                            | Reference Part Number   | Designators    |
+| ----- | -------------------------------------- | ----------------------- | -------------- |
+| 1     | Arduino Nano board                     | Arduino Nano R3         | U1             |
+| 4     | 4-pin PC FAN PCB Header; Male          | Molex KK254-47053       | P1, P2, P3, P4 |
+| 1     | 4-pin PC accessory PCB Header; Male    | Molex 8981 Series       | P5             |
+| 1     | 2-pin JST-XH type PCB Header; Male     | JST-XH B2B-XH-A         | P6             |
+| 4     | Zener Diode; 5,1V; 1/2W                | OnSemi 1N751A           | D1, D2, D3, D4 |
+| 8     | Carbon Resistor; 150 Ohm; 1/8W         | (generic)               | R1, R2, R3, R4, R5, R6, R10, R11 |
+| 4     | Carbon Resistor; 3,9 KOhm; 1/8W        | (generic)               | R7, R8, R9, R12 |
+| 1     | Carbon Resistor; 22 KOhm; 1/8W         | (generic)               | R13             |
+| 4     | Polyester Capacitor; 100nf; 63V        | (generic)               | C1, C2, C3, C4  |
+| 1     | NTC temperature sensor; 50 KOhm @ 25˚C | SR Passives NTCM-HP-50K, with cable and 2-pin JST-XH female connector |                 |
+
 
                                                                         
 
