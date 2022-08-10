@@ -1,3 +1,5 @@
+<p align="center"><img src="img/oshwa.png"></p>
+
 # ArduinoFanController
 
 Controls and monitors up to 4 PC-like fans based on the readings of an NTC temperature sensor.
