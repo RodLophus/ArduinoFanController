@@ -130,8 +130,7 @@ The cable should look like this:
 | 4     | Carbon Resistor; 3,9 KOhm; 1/8W        | (generic)               | R7, R8, R9, R12 |
 | 1     | Carbon Resistor; 22 KOhm; 1/8W         | (generic)               | R13             |
 | 4     | Polyester Capacitor; 100nf; 63V        | (generic)               | C1, C2, C3, C4  |
-| 1     | NTC temperature sensor; 50 KOhm @ 25˚C | SR Passives NTCM-HP-50K, with cable and 2-pin JST-XH female connector |                 |
 
-
+You will also need a NTC temperature sensor with a female JST-XH connector and nominal resistence between 10KOhm and 100Khm at 25˚C.  NTCs with other resistences may require R13 (and the value of REFERENCE_RESISTANCE on the source code) to be changed in order to obtain more precise temperature readings.
                                                                         
 
