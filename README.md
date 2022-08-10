@@ -119,12 +119,16 @@ The cable should look like this:
   
 | Qty.  | Description                         | Reference part number | Designators    |
 | ----- | ------------------------------------| --------------------- | -------------- |
-| 1     | Arduino Nano board                  |                       | U1             |
+| 1     | Arduino Nano board                  | Arduino Nano R3       | U1             |
 | 4     | 4-pin PC FAN PCB header; Male       | Molex KK254-47053     | P1, P2, P3, P4 |
 | 1     | 4-pin PC accessory PCB header; Male | Molex 8981 series     | P5             |
 | 1     | 2-pin JST-XH type PCB header; Male  | JST-XH B2B-XH-A       | P6             |
-| 8     | Carbon Resistor; 150 Ohm; 1/8W      |                       | R1, R2, R3, R4, R5, R6, R10, R11 |
-| 4     | Carbon Resistor; 3,9 KOhm; 1/8W     |                       | R7, R8, R9, R12 |
-| 1     | Carbon Resistor; 22 KOhm; 1/8W      |                       | R13             | 
+| 4     | Zener Diode; 5,1V; 1/5W             | OnSemi 1N751A         | D1, D2, D3, D4 |
+| 8     | Carbon Resistor; 150 Ohm; 1/8W      | (generic)             | R1, R2, R3, R4, R5, R6, R10, R11 |
+| 4     | Carbon Resistor; 3,9 KOhm; 1/8W     | (generic)             | R7, R8, R9, R12 |
+| 1     | Carbon Resistor; 22 KOhm; 1/8W      | (generic)             | R13             |
+| 4     | Polyester Capacitor; 100nf; 63V     | (generic)             | C1, C2, C3, C4  |
+
+
                                                                         
 
