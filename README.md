@@ -113,8 +113,15 @@ Also for "online" usage, if your PC does not has an internal type-A USB port, yo
 
 The cable should look like this:
 
-<center>
-<img src="img/usb_cable.png
-</center>
+![USB Cable](/img/usb_cable.png)
+
+## Bill of Materials
+  
+| Qty.  | Description                                                   | Reference part number | Designators    |
+| ----- | ------------------------------------------------------------- | --------------------- | -------------- |
+| 1     | Arduino Nano                                                  | --------------------- | U1             |
+| 4     | 4-pin PC FAN connectors; Male; Pcb Through-hole mounting      | Molex KK254-47053     | P1, P2, P3, P4 |
+| 1     | 4-pin PC accessory connector; Male; Pcb Through-hole mounting | Molex 8981            | P5
+
 
 
