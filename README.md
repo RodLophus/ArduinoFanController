@@ -117,11 +117,14 @@ The cable should look like this:
 
 ## Bill of Materials
   
-| Qty.  | Description                                                   | Reference part number | Designators    |
-| ----- | ------------------------------------------------------------- | --------------------- | -------------- |
-| 1     | Arduino Nano                                                  | --------------------- | U1             |
-| 4     | 4-pin PC FAN connectors; Male; Pcb Through-hole mounting      | Molex KK254-47053     | P1, P2, P3, P4 |
-| 1     | 4-pin PC accessory connector; Male; Pcb Through-hole mounting | Molex 8981            | P5
-
-
+| Qty.  | Description                         | Reference part number | Designators    |
+| ----- | ------------------------------------| --------------------- | -------------- |
+| 1     | Arduino Nano board                  |                       | U1             |
+| 4     | 4-pin PC FAN PCB header; Male       | Molex KK254-47053     | P1, P2, P3, P4 |
+| 1     | 4-pin PC accessory PCB header; Male | Molex 8981 series     | P5             |
+| 1     | 2-pin JST-XH type PCB header; Male  | JST-XH B2B-XH-A       | P6             |
+| 8     | Carbon Resistor; 150 Ohm; 1/8W      |                       | R1, R2, R3, R4, R5, R6, R10, R11 |
+| 4     | Carbon Resistor; 3,9 KOhm; 1/8W     |                       | R7, R8, R9, R12 |
+| 1     | Carbon Resistor; 22 KOhm; 1/8W      |                       | R13             | 
+                                                                        
 
