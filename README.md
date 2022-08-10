@@ -116,7 +116,7 @@ The cable should look like this:
 <p align="center"><img src="img/usb_cable.png"></p>
 
 ## Bill of Materials
-<center>
+
 | Qty.  | Description                         | Reference part number | Designators    |
 | ----- | ------------------------------------| --------------------- | -------------- |
 | 1     | Arduino Nano board                  | Arduino Nano R3       | U1             |
@@ -128,6 +128,6 @@ The cable should look like this:
 | 4     | Carbon Resistor; 3,9 KOhm; 1/8W     | (generic)             | R7, R8, R9, R12 |
 | 1     | Carbon Resistor; 22 KOhm; 1/8W      | (generic)             | R13             |
 | 4     | Polyester Capacitor; 100nf; 63V     | (generic)             | C1, C2, C3, C4  |
-</center>
+
                                                                         
 
