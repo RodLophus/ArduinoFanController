@@ -113,9 +113,7 @@ Also for "online" usage, if your PC does not has an internal type-A USB port, yo
 
 The cable should look like this:
 
-<p align="center">
-![USB Cable](/img/usb_cable.png)
-</p>
+<p align="center"><img src="img/usb_cable.png"></p>
 
 ## Bill of Materials
   
